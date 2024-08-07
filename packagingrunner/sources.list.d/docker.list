@@ -1,0 +1,1 @@
+deb [arch=arm64 signed-by=/etc/apt/keyrings/docker.asc] http://mirrors.cloud.aliyuncs.com/docker-ce/linux/ubuntu   focal stable
